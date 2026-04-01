@@ -1,0 +1,14 @@
+# --- Web Panel & Database ---
+flask
+pymongo
+dnspython
+
+# --- Telegram Bot ---
+pyTelegramBotAPI
+
+# --- AWS Automation & Stealth ---
+selenium
+undetected-chromedriver
+
+# --- System Utilities ---
+requests
