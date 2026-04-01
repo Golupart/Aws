@@ -12,3 +12,4 @@ undetected-chromedriver
 
 # --- System Utilities ---
 requests
+python-dotenv
