@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- SECURITY SYSTEM ---
-API_KEY = os.getenv("API_KEY")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+API_KEY = os.getenv("PRIMEX_VVIP_99")
+BOT_TOKEN = os.getenv("8546917231:AAG8JB71AVNL8COZDI1Ukuc7tyj4Pe1UYKI")
 
 # --- TARGET CONFIG ---
 TARGET_EMAIL = "hrdxew@telegmail.com"
